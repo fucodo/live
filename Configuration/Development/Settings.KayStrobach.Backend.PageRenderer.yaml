@@ -1,0 +1,14 @@
+KayStrobach:
+  Backend:
+    PageRenderer:
+      Defaults:
+        jsFiles:
+          liveJs:
+            file: 'resource://fucodo.live/Public/JavaScript/live.js/livejs.js'
+            type: text/javascript
+            section: footer
+            forceOnTop: false
+            async: false
+            integrity: null
+            defer: null
+            crossorigin: null
